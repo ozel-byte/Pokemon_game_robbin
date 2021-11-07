@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pokemonOptions debe ser match 1`] = `
+<div class="options-container">
+  <ul>
+    <li class="fondo1">bulbasaur</li>
+    <li class="fondo2">ivysaur</li>
+    <li class="fondo3">venusaur</li>
+    <li class="fondo4">charmander</li>
+  </ul>
+</div>
+`;

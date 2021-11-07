@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pokemonPage debe de hacer match con el snapshot 1`] = `
+<div class="fondo">
+  <h1>Espere por favor...</h1>
+</div>
+`;
+
+exports[`pokemonPage debe de hacer match con el snapshot cuando cargan los pokemons 1`] = `
+<div class="fondo">
+  <h1>Espere por favor...</h1>
+</div>
+`;
